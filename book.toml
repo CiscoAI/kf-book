@@ -1,0 +1,6 @@
+[book]
+authors = ["The Kubeflow Maintainers"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Kubeflow Book"
